@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/07 11:53:39.000.312,=E:\ROSANA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/07 12:52:47.000.926,E:\ROSANA\Documents\Embarcadero\Studio\Projects\uContador.dfm=E:\ROSANA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/07 12:52:47.000.926,E:\ROSANA\Documents\Embarcadero\Studio\Projects\uContador.pas=E:\ROSANA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/07 12:52:58.000.810,E:\ROSANA\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\ROSANA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/07 18:52:09.000.336,E:\ROSANA\Documents\Embarcadero\Studio\Projects\uContador.dfm=E:\ROSANA\Documents\Embarcadero\Studio\projeto-contador\uContador.dfm</Transaction>
+    <Transaction>2023/06/07 18:52:09.000.336,E:\ROSANA\Documents\Embarcadero\Studio\Projects\uContador.pas=E:\ROSANA\Documents\Embarcadero\Studio\projeto-contador\uContador.pas</Transaction>
+    <Transaction>2023/06/07 18:56:15.000.027,E:\ROSANA\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\ROSANA\Documents\Embarcadero\Studio\projeto-contador-final\contador.dproj</Transaction>
+    <Transaction>2023/06/07 19:12:56.289,E:\ROSANA\Documents\Embarcadero\Studio\contador-final\CONTADOR.dproj=E:\ROSANA\Documents\Embarcadero\Studio\projeto-contador-final\contador.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
